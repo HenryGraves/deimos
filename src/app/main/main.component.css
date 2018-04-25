@@ -1,0 +1,40 @@
+h1 {
+    padding-top: 5em;
+    padding-bottom: 2em;
+    text-align: center;
+}
+
+p {
+    padding-bottom: 5em;
+    max-width: 40em;
+}
+
+.join {
+    padding: 20em;
+    padding-top: 0;
+    padding-bottom: 5em;
+    text-align: center;
+}
+
+.right {
+    padding-left: 40em;
+}
+
+.join-button {
+    color: black;
+    border-radius: 3em;
+    font-size: 3em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    background-color: #7389D8;
+}
+
+.join-button:hover {
+    color: white;
+    cursor: pointer;
+}
+
+img {
+    height: 2em;
+    width: 2em;
+}
